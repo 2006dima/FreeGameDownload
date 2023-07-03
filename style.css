@@ -1,0 +1,40 @@
+body{
+    background-color: yellowgreen;
+}
+.s-1{
+    max-width: 1170px;
+    width: 100%;
+    margin: 0 auto;
+   
+}
+.s-1-div{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background-color: white;
+    border: 10px solid blue;
+    height: 700px;
+    border-radius: 50px;
+}
+p, h1 {
+    margin-left: 10px;
+}
+.s-1-wrapper{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+#Download{
+    font-size: 40px;
+    color: black;
+    background-color: rgb(190, 196, 181);
+}
+#a-tag{
+    background-color: rgb(93, 212, 93);
+    font-size: 30px;
+    text-decoration: none;
+    color: black;
+    padding: 10px;
+    border-radius: 10px;
+
+}
